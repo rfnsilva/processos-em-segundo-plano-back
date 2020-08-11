@@ -1,4 +1,7 @@
 <h2 align="center"> Tecnologias usadas <span>BACK-END</span> </h2>
+<h3 align="center"> Projeto com a funcionalidade de enviar um email de boas vindas quando um novo usuario se cadastra<br />
+ este envio de envio será feita em segundo plano usando o redis e a lib de filas bull.
+</h3>
 <h4 align="center"> Nodejs, Typescript, Typeor, Postgres, MailTrap, redis </h4><br />
 
 <h2 align="center"> Como testar </h2>
